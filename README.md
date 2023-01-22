@@ -7,6 +7,6 @@ Here are examples of various Data Science tasks
 | PCA  | Use PCA to reduce dimensions and display class distribution is 2-dim space  | Sklearn |
 | KNNreg_Linreg  | Use of KNN Regression and Linear Regression  | Sklearn |
 | LogRegKNNClassMetrics  | Use of Logistic Regression  | Sklearn |
-| BaggingStacking  | Using of Bagging and Stacking  | Sklearn |
-| Content Cell  | Content Cell  |
+| BaggingStacking  | Use of Bagging and Stacking  | Sklearn |
+| DecTreeRandomForest  | Use of Decision Tree Regressor, plot tree, Random Forest  | Sklear |
 | Content Cell  | Content Cell  |
