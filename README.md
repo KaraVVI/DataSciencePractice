@@ -1,5 +1,5 @@
 # Practice
-Here are examples of various Data Science tasks
+Here are examples of various Machine Learning tasks
 | Project Name  | Description | Python Libraries |
 | ------------- | ------------- | ------------- |
 | Pandas_profiling  | Use of Pandas_profiling library  | Pandas_profiling |
