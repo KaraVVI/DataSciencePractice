@@ -2,7 +2,7 @@
 Here are examples of various Data Science tasks
 | Project Name  | Description |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| Pandas_profiling  | Use of Pandas_profiling library  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
