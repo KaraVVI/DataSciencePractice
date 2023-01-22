@@ -10,3 +10,4 @@ Here are examples of various Data Science tasks
 | BaggingStacking  | Use of Bagging and Stacking  | Sklearn |
 | DecTreeRandomForest  | Use of Decision Tree Regressor, plot tree, Random Forest  | Sklearn |
 | Boosts  | Use of CatBoost and LightGBM  | Catboost, Lightgbm |
+| SQLdata  | Use SQL query to create dataset  | Sqlite3 |
