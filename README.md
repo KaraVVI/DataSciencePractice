@@ -8,5 +8,5 @@ Here are examples of various Data Science tasks
 | KNNreg_Linreg  | Use of KNN Regression and Linear Regression  | Sklearn |
 | LogRegKNNClassMetrics  | Use of Logistic Regression  | Sklearn |
 | BaggingStacking  | Use of Bagging and Stacking  | Sklearn |
-| DecTreeRandomForest  | Use of Decision Tree Regressor, plot tree, Random Forest  | Sklear |
-| Content Cell  | Content Cell  |
+| DecTreeRandomForest  | Use of Decision Tree Regressor, plot tree, Random Forest  | Sklearn |
+| Boosts  | Use of CatBoost and LightGBM  | Catboost, Lightgbm |
